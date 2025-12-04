@@ -1,0 +1,17 @@
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.synctex*
+*.log
+*.synctex.gz.*
+*.bcf
+*.dvi
+*.run.xml
+/.*.swp
+/build/
+/.vscode/
+/main.pdf
+/main-diff.pdf
